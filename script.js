@@ -1,6 +1,6 @@
 $(".owl-carousel").owlCarousel({
     loop: true,
-    margin: 30,
+    margin: 50,
     stagePadding: 70,
     autoWidth: true,
     items: 3,
@@ -9,4 +9,3 @@ $(".owl-carousel").owlCarousel({
     nav: true,
     responsive: false,
   });
-  
